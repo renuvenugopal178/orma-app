@@ -17,7 +17,7 @@ class OrmayuApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Ormayu - Medicine Assistant',
+      title: '- Medicine Assistant',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,

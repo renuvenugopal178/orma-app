@@ -46,7 +46,7 @@ class HomeScreen extends StatelessWidget {
                     ),
                     const SizedBox(height: 24),
                     const Text(
-                      'ORMAYU',
+                      'കൂടെ',
                       style: TextStyle(
                         fontSize: 42,
                         fontWeight: FontWeight.bold,
